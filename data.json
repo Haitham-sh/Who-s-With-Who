@@ -1,0 +1,1072 @@
+{
+  "categories": [
+    {
+      "name": "Personal",
+      "items": [
+        {
+          "id": "letter_o",
+          "file": "letter_o.webp",
+          "nameAr": "عمر",
+          "nameEn": "Oliver"
+        },
+        {
+          "id": "letter_s",
+          "file": "letter_s.webp",
+          "nameAr": "سارة",
+          "nameEn": "Sophie"
+        },
+        {
+          "id": "letter_b",
+          "file": "letter_b.webp",
+          "nameAr": "بدر",
+          "nameEn": "Benjamin"
+        },
+        {
+          "id": "letter_k",
+          "file": "letter_k.webp",
+          "nameAr": "خالد",
+          "nameEn": "Kevin"
+        },
+        {
+          "id": "letter_n",
+          "file": "letter_n.webp",
+          "nameAr": "نور",
+          "nameEn": "Noah"
+        },
+        {
+          "id": "letter_f",
+          "file": "letter_f.webp",
+          "nameAr": "فهد",
+          "nameEn": "Felix"
+        },
+        {
+          "id": "letter_m",
+          "file": "letter_m.webp",
+          "nameAr": "منى",
+          "nameEn": "Mia"
+        },
+        {
+          "id": "letter_t",
+          "file": "letter_t.webp",
+          "nameAr": "طارق",
+          "nameEn": "Thomas"
+        },
+        {
+          "id": "letter_d",
+          "file": "letter_d.webp",
+          "nameAr": "داليا",
+          "nameEn": "Diana"
+        },
+        {
+          "id": "letter_r",
+          "file": "letter_r.webp",
+          "nameAr": "ريان",
+          "nameEn": "Robert"
+        },
+        {
+          "id": "letter_j",
+          "file": "letter_j.webp",
+          "nameAr": "جمال",
+          "nameEn": "James"
+        },
+        {
+          "id": "letter_w",
+          "file": "letter_w.webp",
+          "nameAr": "وليد",
+          "nameEn": "William"
+        },
+        {
+          "id": "letter_z",
+          "file": "letter_z.webp",
+          "nameAr": "زياد",
+          "nameEn": "Zachary"
+        },
+        {
+          "id": "letter_h",
+          "file": "letter_h.webp",
+          "nameAr": "هدى",
+          "nameEn": "Hannah"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "items": [
+        {
+          "id": "panda",
+          "file": "panda.webp",
+          "nameAr": "باندا",
+          "nameEn": "Panda"
+        },
+        {
+          "id": "falcon",
+          "file": "falcon.webp",
+          "nameAr": "صقر",
+          "nameEn": "Falcon"
+        },
+        {
+          "id": "cat",
+          "file": "cat.webp",
+          "nameAr": "قطة",
+          "nameEn": "Cat"
+        },
+        {
+          "id": "horse",
+          "file": "horse.webp",
+          "nameAr": "حصان",
+          "nameEn": "Horse"
+        },
+        {
+          "id": "dog",
+          "file": "dog.webp",
+          "nameAr": "كلب",
+          "nameEn": "Dog"
+        },
+        {
+          "id": "eagle",
+          "file": "eagle.webp",
+          "nameAr": "نسر",
+          "nameEn": "Eagle"
+        },
+        {
+          "id": "fish",
+          "file": "fish.webp",
+          "nameAr": "سمكة",
+          "nameEn": "Fish"
+        },
+        {
+          "id": "rabbit",
+          "file": "rabbit.webp",
+          "nameAr": "أرنب",
+          "nameEn": "Rabbit"
+        },
+        {
+          "id": "gazelle",
+          "file": "gazelle.webp",
+          "nameAr": "غزال",
+          "nameEn": "Gazelle"
+        },
+        {
+          "id": "lion",
+          "file": "lion.webp",
+          "nameAr": "أسد",
+          "nameEn": "Lion"
+        },
+        {
+          "id": "wolf",
+          "file": "wolf.webp",
+          "nameAr": "ذيب",
+          "nameEn": "Wolf"
+        },
+        {
+          "id": "elephant",
+          "file": "elephant.webp",
+          "nameAr": "فيل",
+          "nameEn": "Elephant"
+        },
+        {
+          "id": "giraffe",
+          "file": "giraffe.webp",
+          "nameAr": "زرافة",
+          "nameEn": "Giraffe"
+        },
+        {
+          "id": "penguin",
+          "file": "penguin.webp",
+          "nameAr": "بطريق",
+          "nameEn": "Penguin"
+        }
+      ]
+    },
+    {
+      "name": "HouseColors",
+      "items": [
+        {
+          "id": "red",
+          "file": "red.webp",
+          "nameAr": "أحمر",
+          "nameEn": "Red"
+        },
+        {
+          "id": "blue",
+          "file": "blue.webp",
+          "nameAr": "أزرق",
+          "nameEn": "Blue"
+        },
+        {
+          "id": "green",
+          "file": "green.webp",
+          "nameAr": "أخضر",
+          "nameEn": "Green"
+        },
+        {
+          "id": "yellow",
+          "file": "yellow.webp",
+          "nameAr": "أصفر",
+          "nameEn": "Yellow"
+        },
+        {
+          "id": "white",
+          "file": "white.webp",
+          "nameAr": "أبيض",
+          "nameEn": "White"
+        },
+        {
+          "id": "purple",
+          "file": "purple.webp",
+          "nameAr": "بنفسجي",
+          "nameEn": "Purple"
+        },
+        {
+          "id": "orange",
+          "file": "orange.webp",
+          "nameAr": "برتقالي",
+          "nameEn": "Orange"
+        },
+        {
+          "id": "gray",
+          "file": "gray.webp",
+          "nameAr": "رصاصي",
+          "nameEn": "Gray"
+        },
+        {
+          "id": "brown",
+          "file": "brown.webp",
+          "nameAr": "بني",
+          "nameEn": "Brown"
+        },
+        {
+          "id": "pink",
+          "file": "pink.webp",
+          "nameAr": "زهري",
+          "nameEn": "Pink"
+        },
+        {
+          "id": "cyan",
+          "file": "cyan.webp",
+          "nameAr": "لبني",
+          "nameEn": "Cyan"
+        },
+        {
+          "id": "navy",
+          "file": "navy.webp",
+          "nameAr": "كحلي",
+          "nameEn": "Navy"
+        },
+        {
+          "id": "lime",
+          "file": "lime.webp",
+          "nameAr": "ليموني",
+          "nameEn": "Lime"
+        },
+        {
+          "id": "gold",
+          "file": "gold.webp",
+          "nameAr": "ذهبي",
+          "nameEn": "Gold"
+        }
+      ]
+    },
+    {
+      "name": "FoodAndDrinks",
+      "items": [
+        {
+          "id": "pizza",
+          "file": "pizza.webp",
+          "nameAr": "بيتزا",
+          "nameEn": "Pizza"
+        },
+        {
+          "id": "burger",
+          "file": "burger.webp",
+          "nameAr": "برجر",
+          "nameEn": "Burger"
+        },
+        {
+          "id": "pasta",
+          "file": "pasta.webp",
+          "nameAr": "مكرونة",
+          "nameEn": "Pasta"
+        },
+        {
+          "id": "tea",
+          "file": "tea.webp",
+          "nameAr": "شاي",
+          "nameEn": "Tea"
+        },
+        {
+          "id": "coffee",
+          "file": "coffee.webp",
+          "nameAr": "قهوة",
+          "nameEn": "Coffee"
+        },
+        {
+          "id": "juice",
+          "file": "juice.webp",
+          "nameAr": "عصير",
+          "nameEn": "Juice"
+        },
+        {
+          "id": "salad",
+          "file": "salad.webp",
+          "nameAr": "سلطة",
+          "nameEn": "Salad"
+        },
+        {
+          "id": "soup",
+          "file": "soup.webp",
+          "nameAr": "شوربة",
+          "nameEn": "Soup"
+        },
+        {
+          "id": "pie",
+          "file": "pie.webp",
+          "nameAr": "فطيرة",
+          "nameEn": "Pie"
+        },
+        {
+          "id": "sushi",
+          "file": "sushi.webp",
+          "nameAr": "سوشي",
+          "nameEn": "Sushi"
+        },
+        {
+          "id": "taco",
+          "file": "taco.webp",
+          "nameAr": "تاكو",
+          "nameEn": "Taco"
+        },
+        {
+          "id": "icecream",
+          "file": "icecream.webp",
+          "nameAr": "آيس كريم",
+          "nameEn": "Ice Cream"
+        },
+        {
+          "id": "cake",
+          "file": "cake.webp",
+          "nameAr": "كيك",
+          "nameEn": "Cake"
+        },
+        {
+          "id": "donut",
+          "file": "donut.webp",
+          "nameAr": "دونات",
+          "nameEn": "Donut"
+        }
+      ]
+    },
+    {
+      "name": "Professions",
+      "items": [
+        {
+          "id": "doctor",
+          "file": "doctor.webp",
+          "nameAr": "دكتور",
+          "nameEn": "Doctor"
+        },
+        {
+          "id": "engineer",
+          "file": "engineer.webp",
+          "nameAr": "مهندس",
+          "nameEn": "Engineer"
+        },
+        {
+          "id": "teacher",
+          "file": "teacher.webp",
+          "nameAr": "مدرس",
+          "nameEn": "Teacher"
+        },
+        {
+          "id": "pilot",
+          "file": "pilot.webp",
+          "nameAr": "طيار",
+          "nameEn": "Pilot"
+        },
+        {
+          "id": "astronaut",
+          "file": "astronaut.webp",
+          "nameAr": "رائد فضاء",
+          "nameEn": "Astronaut"
+        },
+        {
+          "id": "artist",
+          "file": "artist.webp",
+          "nameAr": "رسام",
+          "nameEn": "Artist"
+        },
+        {
+          "id": "judge",
+          "file": "judge.webp",
+          "nameAr": "قاضي",
+          "nameEn": "Judge"
+        },
+        {
+          "id": "chef",
+          "file": "chef.webp",
+          "nameAr": "طباخ",
+          "nameEn": "Chef"
+        },
+        {
+          "id": "programmer",
+          "file": "programmer.webp",
+          "nameAr": "مبرمج",
+          "nameEn": "Programmer"
+        },
+        {
+          "id": "carpenter",
+          "file": "carpenter.webp",
+          "nameAr": "نجار",
+          "nameEn": "Carpenter"
+        },
+        {
+          "id": "writer",
+          "file": "writer.webp",
+          "nameAr": "كاتب",
+          "nameEn": "Writer"
+        },
+        {
+          "id": "scientist",
+          "file": "scientist.webp",
+          "nameAr": "عالم",
+          "nameEn": "Scientist"
+        },
+        {
+          "id": "farmer",
+          "file": "farmer.webp",
+          "nameAr": "فلاح",
+          "nameEn": "Farmer"
+        },
+        {
+          "id": "sailor",
+          "file": "sailor.webp",
+          "nameAr": "بحّار",
+          "nameEn": "Sailor"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "items": [
+        {
+          "id": "football",
+          "file": "football.webp",
+          "nameAr": "كورة قدم",
+          "nameEn": "Football"
+        },
+        {
+          "id": "basketball",
+          "file": "basketball.webp",
+          "nameAr": "كورة سلة",
+          "nameEn": "Basketball"
+        },
+        {
+          "id": "swimming",
+          "file": "swimming.webp",
+          "nameAr": "سباحة",
+          "nameEn": "Swimming"
+        },
+        {
+          "id": "chess",
+          "file": "chess.webp",
+          "nameAr": "شطرنج",
+          "nameEn": "Chess"
+        },
+        {
+          "id": "archery",
+          "file": "archery.webp",
+          "nameAr": "رماية",
+          "nameEn": "Archery"
+        },
+        {
+          "id": "cycling",
+          "file": "cycling.webp",
+          "nameAr": "دراجات",
+          "nameEn": "Cycling"
+        },
+        {
+          "id": "equestrian",
+          "file": "equestrian.webp",
+          "nameAr": "فروسية",
+          "nameEn": "Equestrian"
+        },
+        {
+          "id": "tennis",
+          "file": "tennis.webp",
+          "nameAr": "تنس",
+          "nameEn": "Tennis"
+        },
+        {
+          "id": "karate",
+          "file": "karate.webp",
+          "nameAr": "كاراتيه",
+          "nameEn": "Karate"
+        },
+        {
+          "id": "running",
+          "file": "running.webp",
+          "nameAr": "جري",
+          "nameEn": "Running"
+        },
+        {
+          "id": "skiing",
+          "file": "skiing.webp",
+          "nameAr": "تزلج",
+          "nameEn": "Skiing"
+        },
+        {
+          "id": "climbing",
+          "file": "climbing.webp",
+          "nameAr": "تسلّق",
+          "nameEn": "Climbing"
+        },
+        {
+          "id": "boxing",
+          "file": "boxing.webp",
+          "nameAr": "ملاكمة",
+          "nameEn": "Boxing"
+        },
+        {
+          "id": "diving",
+          "file": "diving.webp",
+          "nameAr": "غوص",
+          "nameEn": "Diving"
+        }
+      ]
+    },
+    {
+      "name": "Vehicles",
+      "items": [
+        {
+          "id": "car",
+          "file": "car.webp",
+          "nameAr": "عربية",
+          "nameEn": "Car"
+        },
+        {
+          "id": "airplane",
+          "file": "airplane.webp",
+          "nameAr": "طيارة",
+          "nameEn": "Airplane"
+        },
+        {
+          "id": "train",
+          "file": "train.webp",
+          "nameAr": "قطار",
+          "nameEn": "Train"
+        },
+        {
+          "id": "ship",
+          "file": "ship.webp",
+          "nameAr": "سفينة",
+          "nameEn": "Ship"
+        },
+        {
+          "id": "bicycle",
+          "file": "bicycle.webp",
+          "nameAr": "دراجة",
+          "nameEn": "Bicycle"
+        },
+        {
+          "id": "helicopter",
+          "file": "helicopter.webp",
+          "nameAr": "هليكوبتر",
+          "nameEn": "Helicopter"
+        },
+        {
+          "id": "balloon",
+          "file": "balloon.webp",
+          "nameAr": "منطاد",
+          "nameEn": "Balloon"
+        },
+        {
+          "id": "bus",
+          "file": "bus.webp",
+          "nameAr": "باص",
+          "nameEn": "Bus"
+        },
+        {
+          "id": "submarine",
+          "file": "submarine.webp",
+          "nameAr": "غواصة",
+          "nameEn": "Submarine"
+        },
+        {
+          "id": "truck",
+          "file": "truck.webp",
+          "nameAr": "شاحنة",
+          "nameEn": "Truck"
+        },
+        {
+          "id": "rocket",
+          "file": "rocket.webp",
+          "nameAr": "صاروخ",
+          "nameEn": "Rocket"
+        },
+        {
+          "id": "scooter",
+          "file": "scooter.webp",
+          "nameAr": "سكوتر",
+          "nameEn": "Scooter"
+        },
+        {
+          "id": "boat",
+          "file": "boat.webp",
+          "nameAr": "قارب",
+          "nameEn": "Boat"
+        },
+        {
+          "id": "tram",
+          "file": "tram.webp",
+          "nameAr": "ترام",
+          "nameEn": "Tram"
+        }
+      ]
+    },
+    {
+      "name": "FruitsAndVegetables",
+      "items": [
+        {
+          "id": "apple",
+          "file": "apple.webp",
+          "nameAr": "تفاح",
+          "nameEn": "Apple"
+        },
+        {
+          "id": "banana",
+          "file": "banana.webp",
+          "nameAr": "موز",
+          "nameEn": "Banana"
+        },
+        {
+          "id": "mango",
+          "file": "mango.webp",
+          "nameAr": "مانجو",
+          "nameEn": "Mango"
+        },
+        {
+          "id": "grapes",
+          "file": "grapes.webp",
+          "nameAr": "عنب",
+          "nameEn": "Grapes"
+        },
+        {
+          "id": "strawberry",
+          "file": "strawberry.webp",
+          "nameAr": "فراولة",
+          "nameEn": "Strawberry"
+        },
+        {
+          "id": "watermelon",
+          "file": "watermelon.webp",
+          "nameAr": "بطيخ",
+          "nameEn": "Watermelon"
+        },
+        {
+          "id": "cherry",
+          "file": "cherry.webp",
+          "nameAr": "كرز",
+          "nameEn": "Cherry"
+        },
+        {
+          "id": "pineapple",
+          "file": "pineapple.webp",
+          "nameAr": "أناناس",
+          "nameEn": "Pineapple"
+        },
+        {
+          "id": "lemon",
+          "file": "lemon.webp",
+          "nameAr": "ليمون",
+          "nameEn": "Lemon"
+        },
+        {
+          "id": "pear",
+          "file": "pear.webp",
+          "nameAr": "كمثرى",
+          "nameEn": "Pear"
+        },
+        {
+          "id": "avocado",
+          "file": "avocado.webp",
+          "nameAr": "أفوكادو",
+          "nameEn": "Avocado"
+        },
+        {
+          "id": "carrot",
+          "file": "carrot.webp",
+          "nameAr": "جزر",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "corn",
+          "file": "corn.webp",
+          "nameAr": "ذرة",
+          "nameEn": "Corn"
+        },
+        {
+          "id": "eggplant",
+          "file": "eggplant.webp",
+          "nameAr": "باذنجان",
+          "nameEn": "Eggplant"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "items": [
+        {
+          "id": "sun",
+          "file": "sun.webp",
+          "nameAr": "شمس",
+          "nameEn": "Sun"
+        },
+        {
+          "id": "moon",
+          "file": "moon.webp",
+          "nameAr": "قمر",
+          "nameEn": "Moon"
+        },
+        {
+          "id": "star",
+          "file": "star.webp",
+          "nameAr": "نجمة",
+          "nameEn": "Star"
+        },
+        {
+          "id": "rain",
+          "file": "rain.webp",
+          "nameAr": "مطر",
+          "nameEn": "Rain"
+        },
+        {
+          "id": "lightning",
+          "file": "lightning.webp",
+          "nameAr": "برق",
+          "nameEn": "Lightning"
+        },
+        {
+          "id": "rainbow",
+          "file": "rainbow.webp",
+          "nameAr": "قوس قزح",
+          "nameEn": "Rainbow"
+        },
+        {
+          "id": "mountain",
+          "file": "mountain.webp",
+          "nameAr": "جبل",
+          "nameEn": "Mountain"
+        },
+        {
+          "id": "sea",
+          "file": "sea.webp",
+          "nameAr": "بحر",
+          "nameEn": "Sea"
+        },
+        {
+          "id": "waterfall",
+          "file": "waterfall.webp",
+          "nameAr": "شلال",
+          "nameEn": "Waterfall"
+        },
+        {
+          "id": "volcano",
+          "file": "volcano.webp",
+          "nameAr": "بركان",
+          "nameEn": "Volcano"
+        },
+        {
+          "id": "cloud",
+          "file": "cloud.webp",
+          "nameAr": "غيمة",
+          "nameEn": "Cloud"
+        },
+        {
+          "id": "meteor",
+          "file": "meteor.webp",
+          "nameAr": "نيزك",
+          "nameEn": "Meteor"
+        },
+        {
+          "id": "tree",
+          "file": "tree.webp",
+          "nameAr": "شجرة",
+          "nameEn": "Tree"
+        },
+        {
+          "id": "flower",
+          "file": "flower.webp",
+          "nameAr": "وردة",
+          "nameEn": "Flower"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "items": [
+        {
+          "id": "oud",
+          "file": "oud.webp",
+          "nameAr": "عود",
+          "nameEn": "Oud"
+        },
+        {
+          "id": "piano",
+          "file": "piano.webp",
+          "nameAr": "بيانو",
+          "nameEn": "Piano"
+        },
+        {
+          "id": "guitar",
+          "file": "guitar.webp",
+          "nameAr": "جيتار",
+          "nameEn": "Guitar"
+        },
+        {
+          "id": "violin",
+          "file": "violin.webp",
+          "nameAr": "كمان",
+          "nameEn": "Violin"
+        },
+        {
+          "id": "flute",
+          "file": "flute.webp",
+          "nameAr": "ناي",
+          "nameEn": "Flute"
+        },
+        {
+          "id": "drum",
+          "file": "drum.webp",
+          "nameAr": "طبل",
+          "nameEn": "Drum"
+        },
+        {
+          "id": "kanun",
+          "file": "kanun.webp",
+          "nameAr": "قانون",
+          "nameEn": "Kanun"
+        },
+        {
+          "id": "tambourine",
+          "file": "tambourine.webp",
+          "nameAr": "دف",
+          "nameEn": "Tambourine"
+        },
+        {
+          "id": "trumpet",
+          "file": "trumpet.webp",
+          "nameAr": "بوق",
+          "nameEn": "Trumpet"
+        },
+        {
+          "id": "saxophone",
+          "file": "saxophone.webp",
+          "nameAr": "ساكسفون",
+          "nameEn": "Saxophone"
+        },
+        {
+          "id": "harp",
+          "file": "harp.webp",
+          "nameAr": "هارب",
+          "nameEn": "Harp"
+        },
+        {
+          "id": "xylophone",
+          "file": "xylophone.webp",
+          "nameAr": "إكسيليفون",
+          "nameEn": "Xylophone"
+        },
+        {
+          "id": "harmonica",
+          "file": "harmonica.webp",
+          "nameAr": "هارمونيكا",
+          "nameEn": "Harmonica"
+        },
+        {
+          "id": "accordion",
+          "file": "accordion.webp",
+          "nameAr": "أكورديون",
+          "nameEn": "Accordion"
+        }
+      ]
+    },
+    {
+      "name": "Countries",
+      "items": [
+        {
+          "id": "egypt",
+          "file": "egypt.webp",
+          "nameAr": "مصر",
+          "nameEn": "Egypt"
+        },
+        {
+          "id": "saudi",
+          "file": "saudi.webp",
+          "nameAr": "السعودية",
+          "nameEn": "Saudi"
+        },
+        {
+          "id": "palestine",
+          "file": "palestine.webp",
+          "nameAr": "فلسطين",
+          "nameEn": "Palestine"
+        },
+        {
+          "id": "morocco",
+          "file": "morocco.webp",
+          "nameAr": "المغرب",
+          "nameEn": "Morocco"
+        },
+        {
+          "id": "uae",
+          "file": "uae.webp",
+          "nameAr": "الإمارات",
+          "nameEn": "UAE"
+        },
+        {
+          "id": "jordan",
+          "file": "jordan.webp",
+          "nameAr": "الأردن",
+          "nameEn": "Jordan"
+        },
+        {
+          "id": "qatar",
+          "file": "qatar.webp",
+          "nameAr": "قطر",
+          "nameEn": "Qatar"
+        },
+        {
+          "id": "usa",
+          "file": "usa.webp",
+          "nameAr": "أمريكا",
+          "nameEn": "USA"
+        },
+        {
+          "id": "uk",
+          "file": "uk.webp",
+          "nameAr": "بريطانيا",
+          "nameEn": "UK"
+        },
+        {
+          "id": "france",
+          "file": "france.webp",
+          "nameAr": "فرنسا",
+          "nameEn": "France"
+        },
+        {
+          "id": "germany",
+          "file": "germany.webp",
+          "nameAr": "ألمانيا",
+          "nameEn": "Germany"
+        },
+        {
+          "id": "italy",
+          "file": "italy.webp",
+          "nameAr": "إيطاليا",
+          "nameEn": "Italy"
+        },
+        {
+          "id": "spain",
+          "file": "spain.webp",
+          "nameAr": "إسبانيا",
+          "nameEn": "Spain"
+        },
+        {
+          "id": "canada",
+          "file": "canada.webp",
+          "nameAr": "كندا",
+          "nameEn": "Canada"
+        }
+      ]
+    },
+    {
+      "name": "Devices",
+      "items": [
+        {
+          "id": "laptop",
+          "file": "laptop.webp",
+          "nameAr": "لابتوب",
+          "nameEn": "Laptop"
+        },
+        {
+          "id": "phone",
+          "file": "phone.webp",
+          "nameAr": "موبايل",
+          "nameEn": "Phone"
+        },
+        {
+          "id": "camera",
+          "file": "camera.webp",
+          "nameAr": "كاميرا",
+          "nameEn": "Camera"
+        },
+        {
+          "id": "watch",
+          "file": "watch.webp",
+          "nameAr": "ساعة",
+          "nameEn": "Watch"
+        },
+        {
+          "id": "compass",
+          "file": "compass.webp",
+          "nameAr": "بوصلة",
+          "nameEn": "Compass"
+        },
+        {
+          "id": "telescope",
+          "file": "telescope.webp",
+          "nameAr": "تلسكوب",
+          "nameEn": "Telescope"
+        },
+        {
+          "id": "microscope",
+          "file": "microscope.webp",
+          "nameAr": "مجهر",
+          "nameEn": "Microscope"
+        },
+        {
+          "id": "robot",
+          "file": "robot.webp",
+          "nameAr": "روبوت",
+          "nameEn": "Robot"
+        },
+        {
+          "id": "lamp",
+          "file": "lamp.webp",
+          "nameAr": "لمبة",
+          "nameEn": "Lamp"
+        },
+        {
+          "id": "key",
+          "file": "key.webp",
+          "nameAr": "مفتاح",
+          "nameEn": "Key"
+        },
+        {
+          "id": "book",
+          "file": "book.webp",
+          "nameAr": "كتاب",
+          "nameEn": "Book"
+        },
+        {
+          "id": "map",
+          "file": "map.webp",
+          "nameAr": "خريطة",
+          "nameEn": "Map"
+        },
+        {
+          "id": "headphones",
+          "file": "headphones.webp",
+          "nameAr": "سماعات",
+          "nameEn": "Headphones"
+        },
+        {
+          "id": "glasses",
+          "file": "glasses.webp",
+          "nameAr": "نضارة",
+          "nameEn": "Glasses"
+        }
+      ]
+    }
+  ]
+}
